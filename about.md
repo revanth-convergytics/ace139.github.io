@@ -4,21 +4,23 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a Data Scientist turned Product Manager working with a Start-up in
+ Bengaluru, India. I love to build intelligent products enabling SMBs to 
+ make data-driven business decisions leveraging the latest and greatest 
+ technological advancements in the field of Machine Learning. I'm currently 
+ building a SaaS product called Blik.ai, which is an end-to-end, fully managed 
+ intelligent BI platform for all other SaaS platforms. It enables businesses to 
+ have complete oversight and help them optimize their operation with actionable 
+ insights.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Other than this, I'm interested in Economics, Entrepreneurship, Marketing, 
+and Technology. micro-SaaS is an area that recently grabbed my attention. 
+I feel there is an immense revenue-generating potential with minimal effort.</p>
 
-<h2>Skills</h2>
+<p>I like to spend my leisure time playing Chess online, Cooking, Reading, 
+and Travelling. I like to go on long bike rides in my Royal Enfield on weekends.</p>
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,4 +45,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul> -->
